@@ -1,9 +1,13 @@
+fruits = prompt("fruit").toLowerCase()
 
-(fruits) {
-    "Banana":
-    alert("Hello")
-    break;
-    "Apple":
-    alert("Welcome")
-    break;
+
+switch (fruits) {
+    case "banana":
+        alert("Hello")
+        break;
+    case "apple":
+        alert("Welcome")
+        break;
+    default:
+        alert("aucun des deux")
 }

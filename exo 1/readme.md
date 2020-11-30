@@ -1,7 +1,7 @@
 Consignes :
 
 Compléter le code du fichier exercice1.js pour créer une instruction switch qui affichera une boite d'alerte affichant
- "hello" si la variable fruits vaux "banana" et "welcome" si fruits vaux "apple"
+ "hello" si la variable fruits vaut "banana" et "welcome" si fruits vaux "apple"
 
 
  Théorie :
